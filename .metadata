@@ -1,0 +1,9 @@
+{
+  "author" : "ColonolNutty",
+  "description" : "",
+  "friendlyName" : "Frackin' Universe Armor for Nudity Enhanced",
+  "name" : "FrackinUniverseArmorforNudityEnhanced",
+  "requires" : ["FrackinUniverse"],
+  "version" : "1.0",
+  "priority" : 2 
+}

@@ -1,0 +1,7 @@
+[
+	{
+		"op": "replace",
+		"path": "/femaleFrames/body",
+		"value": "chestf.png"
+	}
+]
